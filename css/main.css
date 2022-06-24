@@ -558,6 +558,7 @@ body {
 }
 
 /* CLIENT-SECTION */ 
+
 .clients-section{
   background-image: url(../images/clients-bg.png);
   background-repeat: no-repeat;
@@ -630,7 +631,6 @@ body {
 }
 
 .contact-item {
-  /* margin-bottom: -10px; */
   font-weight: 700;
   font-size: 18px;
   line-height: 28px;  
@@ -766,7 +766,6 @@ body {
   }
 
   .info-site {
-    /* max-width: 600px; */
     flex-direction: column;
   }
 
@@ -1613,7 +1612,6 @@ body {
 .stories {
   margin-left: -10px;
 }
-
 }
 
 
