@@ -105,7 +105,6 @@ body {
   background-image: url("../images/talenttop.png");
   background-repeat: no-repeat;
   background-position-y: 160px;
-  /* background-position: left; */
   display: flex;
   padding-top: 100px;
   justify-content: space-around;
@@ -1616,7 +1615,7 @@ body {
 
 
 @media only screen and (max-width: 345px) {
-  .main_section_item:nth-child(6):after{
+  .main_section_item:nth-child(6):after {
     background-position: 85px 7px;
   }
 
